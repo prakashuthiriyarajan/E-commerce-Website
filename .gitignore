@@ -1,6 +1,13 @@
 *.log
 .DS_Store
 .env
+/vendor/
+/node_modules/
+/.env
+/composer.lock
+/package-lock.json
+/storage/*.key
+
 .env.backup
 .env.production
 .phpactor.json
