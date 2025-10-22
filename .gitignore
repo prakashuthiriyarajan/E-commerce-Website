@@ -8,6 +8,43 @@
 /package-lock.json
 /storage/*.key
 /public/storage
+# Laravel specific
+/vendor/
+/node_modules/
+/.env
+/composer.lock
+/package-lock.json
+/.idea/
+/.phpunit.result.cache
+/public/storage
+/storage/*.key
+Homestead.yaml
+Homestead.json
+/.vscode/
+/.env.*.backup
+
+# OS generated files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Logs and caches
+/storage/logs/*.log
+/storage/framework/cache/data
+/storage/framework/sessions
+/storage/framework/views
+
+# npm & yarn
+npm-debug.log*
+yarn-error.log*
+yarn-debug.log*
+
+# Misc
+*.zip
+*.tar.gz
+*.rar
+*.sql
 
 .env.backup
 .env.production
