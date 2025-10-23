@@ -30,7 +30,7 @@ E-Shop is a full-featured e-commerce platform built with Laravel 12, featuring a
 ### Backend
 - **Framework**: Laravel 12.x
 - **PHP**: 8.2+
-- **Database**: SQLite (default), MySQL/PostgreSQL supported
+- **Database**: MySQL
 - **Authentication**: Laravel Auth with custom middleware
 - **OAuth**: Laravel Socialite (Google)
 - **Image Processing**: Intervention Image 3.11
